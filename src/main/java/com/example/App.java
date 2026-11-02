@@ -1,9 +1,10 @@
 package com.example;
+
+/**
+ * Hello world!
+ */
 public class App {
- public static void main(String[]args){
-    System.out.println("Hello Maven!");
-    System.out.println("Java Version 25");
-    System.out.println("Maven project built successfully.");
- }
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }
- 
